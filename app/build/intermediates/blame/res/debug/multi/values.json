@@ -1,0 +1,140 @@
+[
+    {
+        "outputFile": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 47,
+                    "endOffset": 98
+                },
+                "from": {
+                    "file": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 132,
+                        "endColumn": 47,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 103,
+                    "endColumn": 75,
+                    "endOffset": 174
+                },
+                "from": {
+                    "file": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 75,
+                        "endOffset": 127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 179,
+                    "endColumn": 467,
+                    "endOffset": 642
+                },
+                "from": {
+                    "file": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 694,
+                        "endColumn": 464,
+                        "endOffset": 1157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 647,
+                    "endColumn": 195,
+                    "endOffset": 838
+                },
+                "from": {
+                    "file": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 195,
+                        "endOffset": 371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 843,
+                    "endColumn": 144,
+                    "endOffset": 983
+                },
+                "from": {
+                    "file": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 376,
+                        "endColumn": 144,
+                        "endOffset": 516
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 988,
+                    "endColumn": 101,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 521,
+                        "endColumn": 101,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 73,
+                    "endOffset": 1159
+                },
+                "from": {
+                    "file": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 73,
+                        "endOffset": 692
+                    }
+                }
+            }
+        ]
+    }
+]

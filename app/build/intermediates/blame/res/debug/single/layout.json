@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/layout/customview.xml",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/layout/customview.xml"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/layout/orderlist.xml",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/layout/orderlist.xml"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/layout/info.xml",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/layout/info.xml"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/layout/findstore.xml",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/layout/findstore.xml"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/layout/help.xml",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/layout/help.xml"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/layout/custinfo.xml",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/layout/custinfo.xml"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/layout/login.xml",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/layout/login.xml"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/layout/orderscren.xml",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/layout/orderscren.xml"
+    }
+]

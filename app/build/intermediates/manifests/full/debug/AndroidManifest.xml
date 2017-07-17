@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.restaurant"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="7"
+        android:targetSdkVersion="7" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <!--
+      <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    -->
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/hc_icon"
+        android:label="@string/app_name"
+        android:theme="@android:style/Theme.NoTitleBar.Fullscreen" >
+        <activity
+            android:name="com.restaurant.LoginActivity"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.restaurant.custinfo" />
+        <activity android:name="com.restaurant.TimmyRestaurantActivity" />
+        <activity android:name="com.restaurant.InfoScreen" />
+        <activity android:name="com.restaurant.MenuScreen" />
+        <activity android:name="com.restaurant.OrderScreen" />
+        <activity android:name="com.restaurant.FindStore" />
+        <activity android:name="com.restaurant.OrderList" />
+        <activity android:name="com.restaurant.HelpGuide" />
+    </application>
+
+</manifest>

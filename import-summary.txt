@@ -1,0 +1,110 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+* .gitattributes
+* .gitignore
+* .idea/
+* .idea/compiler.xml
+* .idea/copyright/
+* .idea/copyright/profiles_settings.xml
+* .idea/misc.xml
+* .idea/workspace.xml
+* RestaurantApp.iml
+* app/
+* app/build.gradle
+* app/src/
+* app/src/main/
+* app/src/main/AndroidManifest.xml
+* app/src/main/java/
+* app/src/main/java/com/
+* app/src/main/java/com/restaurant/
+* app/src/main/java/com/restaurant/DatabaseHelper.java
+* app/src/main/java/com/restaurant/FindStore.java
+* app/src/main/java/com/restaurant/HelpGuide.java
+* app/src/main/java/com/restaurant/InfoScreen.java
+* app/src/main/java/com/restaurant/LoginActivity.java
+* app/src/main/java/com/restaurant/MenuScreen.java
+* app/src/main/java/com/restaurant/ModelClass.java
+* app/src/main/java/com/restaurant/OrderList.java
+* app/src/main/java/com/restaurant/OrderScreen.java
+* app/src/main/java/com/restaurant/TimmyRestaurantActivity.java
+* app/src/main/java/com/restaurant/custinfo.java
+* app/src/main/res/
+* app/src/main/res/drawable-hdpi/
+* app/src/main/res/drawable-hdpi/back.png
+* app/src/main/res/drawable-hdpi/background.jpg
+* app/src/main/res/drawable-hdpi/bmi.png
+* app/src/main/res/drawable-hdpi/hc_icon.png
+* app/src/main/res/drawable-hdpi/ic_launcher.png
+* app/src/main/res/drawable-hdpi/info_bg.png
+* app/src/main/res/drawable-hdpi/next.png
+* app/src/main/res/drawable-hdpi/red_bg.png
+* app/src/main/res/drawable-hdpi/starsymbol.png
+* app/src/main/res/drawable-ldpi/
+* app/src/main/res/drawable-ldpi/ic_launcher.png
+* app/src/main/res/drawable-mdpi/
+* app/src/main/res/drawable-mdpi/hc_icon.png
+* app/src/main/res/drawable-mdpi/ic_launcher.png
+* app/src/main/res/drawable-xhdpi/
+* app/src/main/res/drawable-xhdpi/hc_icon.png
+* app/src/main/res/drawable-xxhdpi/
+* app/src/main/res/drawable-xxhdpi/hc_icon.png
+* app/src/main/res/drawable/
+* app/src/main/res/drawable/back1.jpg
+* app/src/main/res/drawable/btn_default_small_normal.9.png
+* app/src/main/res/drawable/btn_style.xml
+* app/src/main/res/drawable/hover.png
+* app/src/main/res/drawable/mobi.png
+* app/src/main/res/drawable/pressed.png
+* app/src/main/res/layout/
+* app/src/main/res/layout/custinfo.xml
+* app/src/main/res/layout/customview.xml
+* app/src/main/res/layout/findstore.xml
+* app/src/main/res/layout/help.xml
+* app/src/main/res/layout/info.xml
+* app/src/main/res/layout/login.xml
+* app/src/main/res/layout/main.xml
+* app/src/main/res/layout/orderlist.xml
+* app/src/main/res/layout/orderscren.xml
+* app/src/main/res/values/
+* app/src/main/res/values/strings.xml
+* build.gradle
+* gradle/
+* gradle/wrapper/
+* gradle/wrapper/gradle-wrapper.jar
+* gradle/wrapper/gradle-wrapper.properties
+* gradlew
+* gradlew.bat
+* hc_icon-web.png
+* proguard.cfg
+* settings.gradle
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+* AndroidManifest.xml => app/src/main/AndroidManifest.xml
+* res/ => app/src/main/res/
+* src/ => app/src/main/java/
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/ic_launcher">
+	<LinearLayout 
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" 
+    	android:padding="5dip">
+    	
+    	<TextView
+    	    android:layout_marginTop="40dip"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Enter Your Name: "
+        	android:textSize="15dp"
+        	android:textStyle="bold"
+        	android:textColor="#381f03"/>
+        
+    	<EditText
+        	android:id="@+id/user_text"
+        	android:layout_marginTop="40dip"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:layout_marginLeft="3dip"/>
+    </LinearLayout>    
+    <LinearLayout 
+    	android:layout_width="fill_parent"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal" 
+    	android:padding="5dip">
+    	
+    	<TextView
+    	    android:layout_marginTop="40dip"
+        	android:layout_width="wrap_content"
+        	android:layout_height="wrap_content"
+        	android:text="Enter Phone No.: "
+        	android:textSize="15dp"
+        	android:textStyle="bold"
+        	android:textColor="#381f03"/>
+        
+    	<EditText
+        	android:id="@+id/pass_text"
+        	android:layout_marginTop="40dip"
+        	android:layout_width="fill_parent"
+        	android:layout_height="wrap_content"
+        	android:inputType="phone"
+        	android:maxLength="12"
+       		android:layout_marginLeft="6dip"/>
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:paddingTop="50dp" >
+
+        <Button
+            android:id="@+id/new_user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="40dip"
+            android:layout_weight="1"
+            android:background="@drawable/btn_style"
+            android:text="Login"
+          android:fontFamily="ariel"
+            android:textColor="#ffc101"
+            android:textSize="15dp"
+            android:textStyle="bold" 
+             android:layout_alignParentBottom="true"/>
+
+        <Button
+            android:id="@+id/registerd_user"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_marginTop="40dip"
+            android:layout_weight="1"
+            android:background="@drawable/btn_style"
+            android:text="Registration"
+            android:textColor="#ffc101"
+            android:textSize="15dp"
+            android:textStyle="bold" />
+    </RelativeLayout>
+    
+</LinearLayout>

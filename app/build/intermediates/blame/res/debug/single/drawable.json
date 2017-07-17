@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable/back1.jpg",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/back1.jpg"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable/btn_default_small_normal.9.png",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/btn_default_small_normal.9.png"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable/btn_style.xml",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/btn_style.xml"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable/pressed.png",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/pressed.png"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable/hover.png",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/hover.png"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable/mobi.png",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable/mobi.png"
+    }
+]

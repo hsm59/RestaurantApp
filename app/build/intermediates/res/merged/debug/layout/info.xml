@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@drawable/red_bg">
+   <TextView 
+      
+       android:layout_width="fill_parent"
+       android:layout_height="wrap_content"
+       android:text="@string/info"
+       android:textColor="#381f03"
+       android:textSize="15dip"/>
+   	
+<Button 
+        android:id="@+id/Help"
+        android:background="@drawable/btn_style"
+    	android:layout_width="wrap_content"
+       	android:layout_height="wrap_content"
+       	android:text="Need Help?"
+		android:textColor="#ffc101"
+       	android:layout_gravity="center"
+       	android:layout_alignParentBottom="true"/>
+</LinearLayout>

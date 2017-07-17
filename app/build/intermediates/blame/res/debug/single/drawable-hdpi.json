@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable-hdpi/back.png",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable-hdpi/back.png"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable-hdpi/ic_launcher.png",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable-hdpi/next.png",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable-hdpi/next.png"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable-hdpi/bmi.png",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable-hdpi/bmi.png"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable-hdpi/starsymbol.png",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable-hdpi/starsymbol.png"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable-hdpi/hc_icon.png",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable-hdpi/hc_icon.png"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable-hdpi/red_bg.png",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable-hdpi/red_bg.png"
+    },
+    {
+        "merged": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/build/intermediates/res/merged/debug/drawable-hdpi/info_bg.png",
+        "source": "/Users/hussain/AndroidStudioProjects/RestaurantApp/app/src/main/res/drawable-hdpi/info_bg.png"
+    }
+]
